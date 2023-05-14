@@ -1,6 +1,6 @@
 # Preguntas técnicas JavaScript
-## JavaScript
-### Junior
+## JavaScript
+### Junior
 1. ¿Qué es una promesa en Javascript y cómo funciona?
 * Una promesa es un objeto que representa el resultado eventual de una operación asíncrona. Una promesa puede tener tres estados posibles: pendiente, resuelta o rechazada. Cuando una promesa se resuelve, se llama a una función de éxito que recibe los datos que se resolvieron y, si la promesa es rechazada, se llama a una función de fallo que recibe el motivo del rechazo.
 
@@ -31,7 +31,7 @@
 10. ¿Qué son los módulos en Javascript y cómo se utilizan?
 * Los módulos en Javascript son bloques de código que se pueden importar o exportar de un archivo a otro. Se utilizan para organizar el código en piezas más pequeñas y reutilizables y para mejorar la legibilidad y mantenibilidad del código. Los módulos se definen utilizando la sintaxis "export" y se pueden importar en otro archivo utilizando la sintaxis "import".
 
-### Ssr
+### Ssr
 1. ¿Qué es una API REST y cuál es su importancia en el desarrollo de aplicaciones web?
 * Una API REST es una interfaz de programación de aplicaciones basada en HTTP que permite a las aplicaciones web comunicarse entre sí de forma eficiente y escalable. Las API REST son importantes en el desarrollo de aplicaciones web porque permiten la integración de diferentes aplicaciones y servicios, lo que puede mejorar la funcionalidad y la eficiencia de la aplicación.
 
@@ -62,8 +62,8 @@
 * El patrón de diseño Factory se utiliza para crear objetos sin exponer la lógica de creación al cliente. Se puede utilizar en situaciones en las que se requiere la creación de objetos complejos o en situaciones en las que se necesitan objetos diferentes en función de ciertos parámetros. El uso del patrón Factory puede mejorar la modularidad y la reutilización del código.
 
 
-## React
-### Junior
+## React
+### Junior
 1. ¿Qué es JSX en React y por qué es importante?
 * JSX es una extensión de la sintaxis de JavaScript que permite escribir código HTML dentro del código de JavaScript. Es importante en React porque simplifica la creación de componentes de UI, lo que hace que el código sea más legible y fácil de mantener.
 
@@ -127,7 +127,7 @@
 
 
 ## NodeJs
-# Junior
+### Junior
 1. ¿Qué es Node.js y por qué es importante?
 * Node.js es un entorno de tiempo de ejecución (runtime) de JavaScript que permite a los desarrolladores crear aplicaciones del lado del servidor con JavaScript. Es importante porque proporciona una plataforma única y flexible para el desarrollo de aplicaciones, lo que permite a los desarrolladores utilizar las habilidades de JavaScript en ambos lados del servidor (frontend y backend).
 
